@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1734605129 source:e:\sem 3\texteditor\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<string>
+	"header.h"
+
+1734606398 e:\sem 3\texteditor\header.h
+	<string>
+
+1734606461 source:e:\sem 3\texteditor\basic.cpp
+	<iostream>
+	"header.h"
+
+1734606472 source:e:\sem 3\texteditor\textoperator.cpp
+	<iostream>
+	"header.h"
+	<string>
+
+1732639628 e:\sem 3\texteditor\cursoroperator.cpp
+	<iostream>
+
+1734514471 source:e:\sem 3\texteditor\cursoroperator.cpp
+	<iostream>
+	"header.h"
+
+1734598456 source:e:\sem 3\texteditor\display.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<string>
+	<conio.h>
+	"header.h"
+
+1734609085 source:d:\struktur data\texteditorfixfix\texteditor\basic.cpp
+	<iostream>
+	"header.h"
+
+1734609085 d:\struktur data\texteditorfixfix\texteditor\header.h
+	<string>
+
+1734611292 source:d:\struktur data\texteditorfixfix\texteditor\cursoroperator.cpp
+	<iostream>
+	"header.h"
+
+1734612723 source:d:\struktur data\texteditorfixfix\texteditor\display.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<string>
+	<conio.h>
+	"header.h"
+
+1734609085 source:d:\struktur data\texteditorfixfix\texteditor\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<string>
+	"header.h"
+
+1734609212 source:d:\struktur data\texteditorfixfix\texteditor\textoperator.cpp
+	<iostream>
+	"header.h"
+	<string>
+
+1734609085 source:e:\sem 3\re\texteditor\basic.cpp
+	<iostream>
+	"header.h"
+
+1734677991 e:\sem 3\re\texteditor\header.h
+	<string>
+
+1734611292 source:e:\sem 3\re\texteditor\cursoroperator.cpp
+	<iostream>
+	"header.h"
+
+1734612723 source:e:\sem 3\re\texteditor\display.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<string>
+	<conio.h>
+	"header.h"
+
+1734609085 source:e:\sem 3\re\texteditor\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<string>
+	"header.h"
+
+1734609212 source:e:\sem 3\re\texteditor\textoperator.cpp
+	<iostream>
+	"header.h"
+	<string>
+
