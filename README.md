@@ -24,4 +24,4 @@ Proyek ini adalah sebuah _Text Editor_ sederhana yang dirancang untuk mereplikas
 ### 
 **kelompok: Penyu Ngambek**
 1. Faaris Khairrudin  (103052300115)
-2. Muhammad Umar      (103052330101)
+2. Muhammad Umar      (103052330102)
